@@ -1,0 +1,17 @@
+
+.boks {
+    display: flex;
+    justify-content: end;
+}
+.tekst {
+    font-weight: bold;
+    padding: 25px;
+    background-color: azure;
+}
+.img1 {
+    width: 750px;
+    height: 616px;
+}
+.img2 {
+    width: 250px;
+}
